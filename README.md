@@ -1,4 +1,4 @@
-Wordpress on Heroku with Svbtle <img src="https://www.codeship.io/projects/fdbee320-08df-0131-be6d-16779a07ef5a/status">
+Wordpress on Heroku with Svbtle [ ![Codeship Status for ParallelBrains/parallelbrains-blog](https://www.codeship.io/projects/fdbee320-08df-0131-be6d-16779a07ef5a/status?branch=master)](https://www.codeship.io/projects/7406)
 ===============================
 
 This project is a template for installing and running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/) with the '[wp-svbtle](https://github.com/gravityonmars/wp-svbtle)' theme. The repository comes bundled with [PostgreSQL for WordPress](http://wordpress.org/extend/plugins/postgresql-for-wordpress/) and [WP Read-Only](http://wordpress.org/extend/plugins/wpro/).
