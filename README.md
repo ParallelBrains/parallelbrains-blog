@@ -179,3 +179,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 #### [Wordpress](http://wordpress.org)
 [The WordPress License](http://wordpress.org/about/license/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ParallelBrains/parallelbrains-blog/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
